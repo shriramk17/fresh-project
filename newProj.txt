@@ -1,3 +1,4 @@
 New git project
 NEw line message
 My new learnings
+Successfully pushed to repo
